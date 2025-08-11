@@ -1,0 +1,49 @@
+scikit learn modules
+refer scikit documentation
+API scikit linear
+
+datasets
+    -load iris
+linear model
+    -logistic reggression
+    -linear reggression
+preprocessing
+    -MinMaxScaler    
+    -standard Scalar
+    -label Encoding
+    _OneHot Encoding
+
+metrices
+    -accuracy
+    -confusion_matrix
+    -f1_score               --logistic reggression
+    -precision
+    -recall
+    
+    -mean_squared error
+    -mean absolute error                --linear reggression
+    -r2 score
+    -mean absolute percentage error
+
+tree 
+    -Decisiontree classfier
+    -decision tree regressor
+
+SVM
+    -linear SVR
+    -linear SVC
+
+naive_bayes
+    -guassian NB 
+
+cluster
+    -Kmeans
+    -agglomerative
+    -DBSCAN
+
+
+feature selection
+    -RFE          
+
+dimensionality reduction
+
