@@ -2,4 +2,4 @@ dimensionality_reduction/mnist_train.csv
 generative_vs_discriminative/mnist_train.csv
 unsupervised/mnist_train.csv
 neural_network/mnist_train.csv
-
+CNN/dataset/
